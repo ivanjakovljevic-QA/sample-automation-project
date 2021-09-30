@@ -13,4 +13,4 @@ Note:
 - Extract realworld-test-project that is found within wolf-wolf-exam folder
 - Open extracted project using Visusal Studio 2019
 - To run tests click on "Test" menu bar and click on "Run all tests" or press CTRL+R,A
-- After test is executed, new user, article and article comment will bi created on url: https://angular.realworld.io/
+- After test is executed, new user, article and article comment will be created on url: https://angular.realworld.io/
