@@ -1,4 +1,4 @@
-# Wolf&wolf - exam
+# Sample Automation Project
 
 Used technologies/frameworks/packages/tools:
 1. C#
